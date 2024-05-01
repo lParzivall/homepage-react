@@ -60,7 +60,7 @@ const Home = () => (
             borderRadius="full"
             overflow="hidden"
           >
-            <Image src="/1.jpg" alt="Profile image" width="100" height="100" />
+            <Image src="/ava.jpg" alt="Profile image" width="100" height="100" />
           </Box>
         </Box>
       </Box>
